@@ -1,14 +1,3 @@
 {
-  "scripts": [
-    {
-      "name": "Nova",
-      "status": "In Development",
-      "detection": "Undetected",
-      "keysystem": "Key System",
-      "price": "Free",
-      "updated": "12/11/2026 at 18:56",
-      "loadstring": "loadstring(game:HttpGet(\"https://api.getvortex.vip/api/t/QUGYKH/s/Ui\"))()",
-      "discord": "https://discord.com/test"
-    }
-  ]
+  "scripts": []
 }
