@@ -25,8 +25,8 @@
       "status": "Working",
       "detection": "Undetected",
       "keysystem": "Keyless",
-      "price": "Free",
-      "updated": "12/11/2026 at 19:44",
+      "price": "Paid",
+      "updated": "12.11.2026 at 18:50",
       "loadstring": "script_key = \"\" -- get your key at zekehub.com\nloadstring(game:HttpGet(\"https://zekehub.com/scripts/MainLoader.lua\"))()",
       "discord": "https://discord.gg/zekehub"
     }
