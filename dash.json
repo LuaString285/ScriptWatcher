@@ -1,16 +1,6 @@
 {
   "scripts": [
     {
-      "name": "Test6",
-      "status": "Down",
-      "detection": "Undetected",
-      "keysystem": "Key System",
-      "price": "Free",
-      "updated": "12/11/2026 at 18:52",
-      "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/VortexHub/script/mainTest.lua\"))()",
-      "discord": "https://discord.gg/yourserver"
-    },
-    {
       "name": "Nova",
       "status": "In Development",
       "detection": "Undetected",
