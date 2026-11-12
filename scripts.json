@@ -19,6 +19,16 @@
       "updated": "Not Released",
       "loadstring": "",
       "discord": "https://discord.gg/XaCycuGUmY"
+    },
+    {
+      "name": "ZekeHub",
+      "status": "Working",
+      "detection": "Undetected",
+      "keysystem": "Keyless",
+      "price": "Free",
+      "updated": "12/11/2026 at 19:44",
+      "loadstring": "loadstring(game:HttpGet(\"https://zekehub.com/scripts/MainLoader.lua\"))()",
+      "discord": "https://discord.gg/zekehub"
     }
   ]
 }
