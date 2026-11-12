@@ -19,6 +19,16 @@
       "updated": "12/11/2026 at 19:16",
       "loadstring": "",
       "discord": ""
+    },
+    {
+      "name": "OnlyLua",
+      "status": "Working",
+      "detection": "Undetected",
+      "keysystem": "Keyless",
+      "price": "Free",
+      "updated": "12/11/2026 at 19:16",
+      "loadstring": "loadstring(game:HttpGet(\"u\"))()",
+      "discord": ""
     }
   ]
 }
