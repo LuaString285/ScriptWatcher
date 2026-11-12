@@ -1,1 +1,34 @@
-{} 
+{
+  "scripts": [
+    {
+      "name": "Vortex",
+      "status": "In Development",
+      "detection": "Undetected",
+      "keysystem": "Key System",
+      "price": "Free",
+      "updated": "12/11/2026 at 18:14",
+      "loadstring": "loadstring(game:HttpGet(\"https://api.getvortex.vip/api/t/QUGYKH/s/Ui\"))()",
+      "discord": "https://discord.gg/test"
+    },
+    {
+      "name": "Test6",
+      "status": "Down",
+      "detection": "Undetected",
+      "keysystem": "Key System",
+      "price": "Free",
+      "updated": "12/11/2026 at 18:52",
+      "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/VortexHub/script/mainTest.lua\"))()",
+      "discord": "https://discord.gg/yourserver"
+    },
+    {
+      "name": "Nova",
+      "status": "In Development",
+      "detection": "Undetected",
+      "keysystem": "Key System",
+      "price": "Free",
+      "updated": "12/11/2026 at 18:56",
+      "loadstring": "loadstring(game:HttpGet(\"https://api.getvortex.vip/api/t/QUGYKH/s/Ui\"))()",
+      "discord": "https://discord.com/test"
+    }
+  ]
+}
