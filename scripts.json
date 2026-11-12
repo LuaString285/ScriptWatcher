@@ -9,6 +9,16 @@
       "updated": "17/10/2026 at 23:26",
       "loadstring": "loadstring(game:HttpGet(\"https://api.getvortex.vip/scripts/VortexMain\"))()",
       "discord": "https://discord.gg/getvortex"
+    },
+    {
+      "name": "Nova",
+      "status": "In Development",
+      "detection": "Undetected",
+      "keysystem": "Keyless",
+      "price": "Free",
+      "updated": "12/11/2026 at 19:24",
+      "loadstring": "",
+      "discord": "https://discord.gg/XaCycuGUmY"
     }
   ]
 }
