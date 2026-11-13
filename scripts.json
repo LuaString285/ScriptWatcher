@@ -30,7 +30,8 @@
       "price": "Paid - 18.99$",
       "updated": "12.11.2026 at 18:50",
       "loadstring": "script_key = \"\" -- get your key at zekehub.com\nloadstring(game:HttpGet(\"https://zekehub.com/scripts/MainLoader.lua\"))()",
-      "discord": "https://discord.gg/zekehub"
+      "discord": "https://discord.gg/zekehub",
+      "website": "https://zekehub.com"
     },
     {
       "name": "Lithium",
