@@ -8,7 +8,8 @@
       "price": "Free",
       "updated": "17/10/2026 at 23:26",
       "loadstring": "loadstring(game:HttpGet(\"https://api.getvortex.vip/scripts/VortexMain\"))()",
-      "discord": "https://discord.gg/getvortex"
+      "discord": "https://discord.gg/getvortex",
+      "website": "https://getvortex.vip/"
     },
     {
       "name": "Nova",
