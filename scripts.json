@@ -56,6 +56,18 @@
       "discord": "https://discord.gg/B9EfpPrAPN",
       "website": "",
       "recommended": false
+    },
+    {
+      "name": "Peak",
+      "status": "In Development",
+      "detection": "Undetected",
+      "keysystem": "Keyless",
+      "price": "Free",
+      "updated": "13/11/2026 at 21:20",
+      "loadstring": "loadstring(game:HttpGet(\"https://api.getvortex.vip/api/t/QUGYKH/s/main\"))()",
+      "discord": "https://discord.gg/7HjB6zqCmh",
+      "website": "",
+      "recommended": false
     }
   ]
 }
