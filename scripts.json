@@ -56,7 +56,7 @@
       "loadstring": "loadstring(game:HttpGet(\"https://api.getvortex.vip/api/t/QUGYKH/s/main\"))()",
       "discord": "https://discord.gg/7HjB6zqCmh",
       "website": "",
-      "recommended": true
+      "recommended": false
     },
     {
       "name": "Beanzz",
