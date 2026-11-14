@@ -122,6 +122,19 @@
       "discord": "https://discord.gg/darkX",
       "website": "",
       "recommended": false
+    },
+    {
+      "name": "Dark X",
+      "section": "AutoRob",
+      "status": "In Development",
+      "detection": "Undetected",
+      "keysystem": "Keyless",
+      "price": "Free",
+      "updated": "14/11/2026 at 18:08",
+      "loadstring": "",
+      "discord": "https://discord.gg/darkX",
+      "website": "",
+      "recommended": false
     }
   ]
 }
