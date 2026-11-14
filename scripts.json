@@ -57,6 +57,19 @@
       "discord": "https://discord.gg/7HjB6zqCmh",
       "website": "",
       "recommended": true
+    },
+    {
+      "name": "Beanzz",
+      "section": "Scripts",
+      "status": "Working",
+      "detection": "Undetected",
+      "keysystem": "Keyless",
+      "price": "Free",
+      "updated": "14/11/2026 at 13:22",
+      "loadstring": "loadstring(game:HttpGet(\"https://beanzz.wtf/Main.lua\"))()",
+      "discord": "https://discord.gg/beanzhub",
+      "website": "",
+      "recommended": false
     }
   ]
 }
