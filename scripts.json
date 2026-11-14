@@ -109,6 +109,19 @@
       "discord": "https://discord.gg/sorinscripts",
       "website": "https://sorinscripts.xyz/",
       "recommended": false
+    },
+    {
+      "name": "Dark X",
+      "section": "Scripts",
+      "status": "Working",
+      "detection": "Undetected",
+      "keysystem": "Key System",
+      "price": "Free",
+      "updated": "14/11/2026 at 18:06",
+      "loadstring": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/Merdooon/skibidi-sigma-spec-ter/refs/heads/main/specter')))()",
+      "discord": "https://discord.gg/darkX",
+      "website": "",
+      "recommended": false
     }
   ]
 }
