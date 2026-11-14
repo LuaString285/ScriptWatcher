@@ -35,17 +35,6 @@
       "website": "https://zekehub.com"
     },
     {
-      "name": "Lithium",
-      "status": "In Development",
-      "detection": "Unknown",
-      "keysystem": "Keyless",
-      "price": "Paid - 15$",
-      "updated": "Not Released",
-      "loadstring": "",
-      "discord": "https://discord.gg/lithx",
-      "website": "https://lithium-reselling.mysellauth.com/"
-    },
-    {
       "name": "Xeioa",
       "status": "Working",
       "detection": "Undetected",
