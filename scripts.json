@@ -70,6 +70,19 @@
       "discord": "https://discord.gg/beanzhub",
       "website": "https://beanzz.wtf/",
       "recommended": false
+    },
+    {
+      "name": "Beanzz",
+      "section": "AutoRob",
+      "status": "Working",
+      "detection": "Undetected",
+      "keysystem": "Keyless",
+      "price": "Free",
+      "updated": "14/11/2026 at 13:25",
+      "loadstring": "",
+      "discord": "https://discord.gg/beanzhub",
+      "website": "",
+      "recommended": false
     }
   ]
 }
