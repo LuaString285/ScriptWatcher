@@ -104,7 +104,7 @@
       "detection": "Undetected",
       "keysystem": "Keyless",
       "price": "Free",
-      "updated": "14/11/2026 at 17:44",
+      "updated": "14/11/2026 at 16:23",
       "loadstring": "loadstring(game:HttpGet(\"https://api.sorinscripts.xyz/scripts/autofarm.lua\"))()",
       "discord": "https://discord.gg/sorinscripts",
       "website": "https://sorinscripts.xyz/",
