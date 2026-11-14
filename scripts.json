@@ -10,7 +10,7 @@
       "loadstring": "loadstring(game:HttpGet(\"https://api.getvortex.vip/scripts/VortexMain\"))()",
       "discord": "https://discord.gg/getvortex",
       "website": "https://getvortex.vip/",
-      "recommended": true
+      "recommended": false
     },
     {
       "name": "Nova",
