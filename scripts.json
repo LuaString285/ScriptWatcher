@@ -96,6 +96,19 @@
       "discord": "https://discord.gg/sorinscripts",
       "website": "https://sorinscripts.xyz/",
       "recommended": false
+    },
+    {
+      "name": "SorinScripts",
+      "section": "AutoRob",
+      "status": "Working",
+      "detection": "Undetected",
+      "keysystem": "Keyless",
+      "price": "Free",
+      "updated": "14/11/2026 at 17:44",
+      "loadstring": "loadstring(game:HttpGet(\"https://api.sorinscripts.xyz/scripts/autofarm.lua\"))()",
+      "discord": "https://discord.gg/sorinscripts",
+      "website": "",
+      "recommended": false
     }
   ]
 }
