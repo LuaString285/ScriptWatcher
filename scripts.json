@@ -65,7 +65,7 @@
       "detection": "Undetected",
       "keysystem": "Keyless",
       "price": "Free",
-      "updated": "14/11/2026 at 20:55",
+      "updated": "16/11/2026 at 13:14",
       "loadstring": "loadstring(game:HttpGet(\"https://beanzz.wtf/Main.lua\"))()",
       "discord": "https://discord.gg/beanzhub",
       "website": "https://beanzz.wtf/",
@@ -113,7 +113,7 @@
     {
       "name": "Dark X",
       "section": "Scripts",
-      "status": "Bugging",
+      "status": "Working",
       "detection": "Undetected",
       "keysystem": "Key System",
       "price": "Free",
